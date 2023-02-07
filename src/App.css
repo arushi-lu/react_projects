@@ -1,0 +1,9 @@
+.App {
+  font-family: 'Roboto', sans-serif;
+}
+
+.vertical_divider{
+  width: 2px;
+  height: auto;
+  background-color: whitesmoke;
+}
